@@ -1,1 +1,3 @@
-A website for my favourite character is currently being built here!
+# Kommissar Lohmann
+## A Legendary German Inspector
+
